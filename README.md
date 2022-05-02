@@ -49,17 +49,25 @@ Here's why:
 * A major challenge, facing healthcare organizations (hospitals, medical centers) is the provision of quality services at affordable costs. Quality service implies diagnosing patients correctly and administering treatments that are effective. Integration of clinical decision support with computer-based patient records could reduce medical errors, enhance patient safety, decrease unwanted practice variation, and improve patient outcome. In spite of the rapid development of pathological research and clinical technologies, people die suddenly due to many diseases.
 * A number of techniques have been used for diagnosing heart disease including artificial neural network and various other modeling algorithms. But it has been observed that 13 classification accuracies were not good with these techniques and still enough scope in improving by choosing appropriate ML model.
 
-Logistic Regression <br />
-![](images/LR.jpg) <br />
+**Logistic Regression** <br />
+<div align="center">
+	![](images/LR.jpg) <br />
+</div>
 
-K-Nearest Neighbors <br />
-![](images/KNN.jpg) <br />
+**K-Nearest Neighbors** <br />
+<div align="center">
+	![](images/KNN.jpg) <br />
+</div>
 
-Support Vector Machine (SVM) <br />
-![](images/SVM.jpg) <br />
+**Support Vector Machine (SVM)** <br />
+<div align="center">
+	![](images/SVM.jpg) <br />
+</div>
 
-Decision Tree Classifier <br />
-![](images/DTC.jpg) <br />
+**Decision Tree Classifier** <br />
+<div align="center">
+	![](images/DTC.jpg) <br />
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
