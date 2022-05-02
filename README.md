@@ -50,7 +50,7 @@ Here's why:
 * A number of techniques have been used for diagnosing heart disease including artificial neural network and various other modeling algorithms. But it has been observed that 13 classification accuracies were not good with these techniques and still enough scope in improving by choosing appropriate ML model.
 
 Logistic Regression
-![](images/LR.png)
+![](/images/LR.png)
 
 K-Nearest Neighbors
 ![](images/KNN.png)
