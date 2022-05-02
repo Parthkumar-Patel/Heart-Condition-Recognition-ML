@@ -147,12 +147,10 @@ Data Dictionary for Result Analysis.
 
 Contributors Names and Contact Info
 
-* [Parthkumar Patel](https://www.linkedin.com/in/parthp1810/)
-* [Rohan Patel](https://www.linkedin.com/in/rohan-patel-685941211/)
-* [Heni Tailor]()
-* [Yakin Patel](https://www.linkedin.com/in/yakin-patel-566369188/)
-
-Project Link: [https://github.com/Parthp1810/Heart-Condition-Recognition-ML](https://github.com/Parthp1810/Heart-Condition-Recognition-ML)
+* Parthkumar Patel
+* Rohan Patel
+* Heni Tailor
+* Yakin Patel
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
