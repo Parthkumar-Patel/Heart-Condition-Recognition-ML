@@ -50,24 +50,24 @@ Here's why:
 * A number of techniques have been used for diagnosing heart disease including artificial neural network and various other modeling algorithms. But it has been observed that 13 classification accuracies were not good with these techniques and still enough scope in improving by choosing appropriate ML model.
 
 **Logistic Regression** <br />
-<div align="center">
-	<p>![](images/LR.jpg) <br /></p>
-</div>
+<p align="center">
+    <img src="images/LR.jpg"> 
+</p>
 
 **K-Nearest Neighbors** <br />
-<div align="center">
-	![](images/KNN.jpg) <br />
-</div>
+<p align="center">
+    <img src="images/KNN.jpg"> 
+</p>
 
 **Support Vector Machine (SVM)** <br />
-<div align="center">
-	![](images/SVM.jpg) <br />
-</div>
+<p align="center">
+    <img src="images/SVM.jpg"> 
+</p>
 
 **Decision Tree Classifier** <br />
-<div align="center">
-	![](images/DTC.jpg) <br />
-</div>
+<p align="center">
+    <img src="images/DTC.jpg"> 
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
