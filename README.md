@@ -51,7 +51,7 @@ Here's why:
 
 **Logistic Regression** <br />
 <div align="center">
-	![](images/LR.jpg) <br />
+	<p>![](images/LR.jpg) <br /></p>
 </div>
 
 **K-Nearest Neighbors** <br />
