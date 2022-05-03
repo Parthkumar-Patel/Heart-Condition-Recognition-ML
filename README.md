@@ -102,7 +102,7 @@ Install required Libraries to execute the program are:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Parthp1810/Heart-Condition-Recognition-ML.git
+   git clone https://github.com/Parthkumar-Patel/Heart-Condition-Recognition-ML.git
    ```
 2. Change directory to the folder
    ```sh
